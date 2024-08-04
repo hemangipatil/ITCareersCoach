@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "706204639527",
+    "project_id": "itcareerscoach",
+    "storage_bucket": "itcareerscoach.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:706204639527:android:7f4338b1ad39a45ad9c902",
+        "android_client_info": {
+          "package_name": "com.itcareerscoach.itcareerscoach"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "706204639527-t9ic4ailhlnk7ffiltf1gelmsmc9sqqc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.itcareerscoach.itcareerscoach",
+            "certificate_hash": "0d6d71bb610e61a52e6a3a2ac995cbf46ee1e7be"
+          }
+        },
+        {
+          "client_id": "706204639527-h3tef3vf1f3ea89l2d9311gpde6rkcv6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDG0_3YIK5rhh-I0lzUVQVlmT0OwvsDWeY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "706204639527-h3tef3vf1f3ea89l2d9311gpde6rkcv6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

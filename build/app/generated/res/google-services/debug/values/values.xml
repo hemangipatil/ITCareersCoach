@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">172577209753-fu3esd7e15fr4tl5r3detemfln8fhi8i.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">172577209753</string>
+    <string name="google_api_key" translatable="false">AIzaSyA7sFVKJdz2C9a-e3jh_GNGM3to17UOU84</string>
+    <string name="google_app_id" translatable="false">1:172577209753:android:a64b2593d2c42dd5b1a708</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyA7sFVKJdz2C9a-e3jh_GNGM3to17UOU84</string>
+    <string name="google_storage_bucket" translatable="false">career-coach-26e57.appspot.com</string>
+    <string name="project_id" translatable="false">career-coach-26e57</string>
+</resources>
